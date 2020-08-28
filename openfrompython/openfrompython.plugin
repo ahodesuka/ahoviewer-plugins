@@ -1,0 +1,7 @@
+[Plugin]
+Module=openfrompython
+Loader=python3
+Name=Open File from Python
+Description=A simple test plugin that opens a file from Python.
+Hidden=false
+X-ActionName=TestPlugin

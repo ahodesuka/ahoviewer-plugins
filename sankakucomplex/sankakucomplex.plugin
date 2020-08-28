@@ -1,0 +1,5 @@
+[Plugin]
+Module=sankakucomplex
+Loader=python3
+Name=Sankaku Complex
+X-No-Multiplexing=1
